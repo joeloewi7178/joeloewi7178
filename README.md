@@ -5,4 +5,4 @@ Android Developer
 joeloewi7178@gmail.com
 
 # Experiences
-- 2020.04 ~ 2021.12 - *jongdallab*
+- 2020.04 ~ 2021.12 - *start-up company*
